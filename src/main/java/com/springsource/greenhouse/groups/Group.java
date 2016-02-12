@@ -20,6 +20,8 @@ package com.springsource.greenhouse.groups;
  */
 public class Group {
 	
+	// testing comment
+	
 	private String name;
 	
 	private String description;
